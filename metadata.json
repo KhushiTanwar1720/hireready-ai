@@ -1,0 +1,7 @@
+{
+  "name": "HireReady AI",
+  "description": "AI-powered interview preparation platform that helps candidates prepare for Technical and HR interviews with real-time AI mock interviews, detailed scoring, resume ATS optimizer, and question bank.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
